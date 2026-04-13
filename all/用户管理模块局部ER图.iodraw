@@ -301,7 +301,7 @@
             <mxPoint x="479" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJ45x7psqgu8wUfMHxMC-11" value="被购买" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=32;" vertex="1" connectable="0" parent="bJ45x7psqgu8wUfMHxMC-10">
+        <mxCell id="bJ45x7psqgu8wUfMHxMC-11" value="创建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=32;" vertex="1" connectable="0" parent="bJ45x7psqgu8wUfMHxMC-10">
           <mxGeometry x="0.3288" y="1" relative="1" as="geometry">
             <mxPoint x="-20" y="-52" as="offset" />
           </mxGeometry>

@@ -219,7 +219,7 @@
         <mxCell id="6abO8dJqht20hs6ITtWi-155" value="电话" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="437" y="327" width="144" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="6abO8dJqht20hs6ITtWi-156" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6abO8dJqht20hs6ITtWi-32" target="6abO8dJqht20hs6ITtWi-157" edge="1">
+        <mxCell id="6abO8dJqht20hs6ITtWi-156" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="6abO8dJqht20hs6ITtWi-32" target="6abO8dJqht20hs6ITtWi-157" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="641" y="652.95" as="sourcePoint" />
           </mxGeometry>
@@ -235,9 +235,9 @@
         <mxCell id="6abO8dJqht20hs6ITtWi-159" value="支付类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="598" y="824" width="144" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="6abO8dJqht20hs6ITtWi-160" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;exitX=1.024;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6abO8dJqht20hs6ITtWi-32" target="6abO8dJqht20hs6ITtWi-161" edge="1">
+        <mxCell id="6abO8dJqht20hs6ITtWi-160" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6abO8dJqht20hs6ITtWi-32" target="6abO8dJqht20hs6ITtWi-161" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="515.95" as="sourcePoint" />
+            <mxPoint x="525" y="575" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6abO8dJqht20hs6ITtWi-161" value="地址" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">

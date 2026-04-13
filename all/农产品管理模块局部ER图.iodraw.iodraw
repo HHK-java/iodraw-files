@@ -318,7 +318,7 @@
             <mxPoint x="247" y="175" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x1MZnCvZEzhZhlTLITfl-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="x1MZnCvZEzhZhlTLITfl-4" value="表名" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="405" y="-45" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="x1MZnCvZEzhZhlTLITfl-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="x1MZnCvZEzhZhlTLITfl-4" source="XTUT1t_9tsMBDlzE9ohR-1">
@@ -327,7 +327,7 @@
             <mxPoint x="401" y="-48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x1MZnCvZEzhZhlTLITfl-6" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="x1MZnCvZEzhZhlTLITfl-6" value="名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="497" y="-124" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="x1MZnCvZEzhZhlTLITfl-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="x1MZnCvZEzhZhlTLITfl-6">

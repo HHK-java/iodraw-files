@@ -8,10 +8,10 @@
           <mxGeometry x="262" y="126" width="162" height="88.9" as="geometry" />
         </mxCell>
         <mxCell id="XTUT1t_9tsMBDlzE9ohR-3" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-26" width="144" height="79" as="geometry" />
+          <mxGeometry x="389" y="-9" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="XTUT1t_9tsMBDlzE9ohR-6" value="主键ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="-20" width="144" height="79" as="geometry" />
+          <mxGeometry x="17" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="XTUT1t_9tsMBDlzE9ohR-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" source="XTUT1t_9tsMBDlzE9ohR-1" target="XTUT1t_9tsMBDlzE9ohR-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -307,13 +307,13 @@
         <mxCell id="6abO8dJqht20hs6ITtWi-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6abO8dJqht20hs6ITtWi-33" target="6abO8dJqht20hs6ITtWi-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bJ45x7psqgu8wUfMHxMC-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;exitX=0.005;exitY=0.315;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="bJ45x7psqgu8wUfMHxMC-2" source="XTUT1t_9tsMBDlzE9ohR-1">
+        <mxCell id="bJ45x7psqgu8wUfMHxMC-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.971;entryY=0.7;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;exitX=0.005;exitY=0.315;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="bJ45x7psqgu8wUfMHxMC-2" source="XTUT1t_9tsMBDlzE9ohR-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="264" y="164" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bJ45x7psqgu8wUfMHxMC-2" value="库存" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-42" y="42" width="144" height="79" as="geometry" />
+          <mxGeometry x="-27" y="102" width="144" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

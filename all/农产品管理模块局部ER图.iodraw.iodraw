@@ -315,6 +315,9 @@
         <mxCell id="6abO8dJqht20hs6ITtWi-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6abO8dJqht20hs6ITtWi-33" target="6abO8dJqht20hs6ITtWi-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x1MZnCvZEzhZhlTLITfl-1" value="&lt;p style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;农产品分类&lt;/font&gt;&lt;/p&gt;" style="rectangle;whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontStyle=0;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
+          <mxGeometry x="518" y="175" width="162" height="88.9" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -25,7 +25,7 @@
         <mxCell id="6abO8dJqht20hs6ITtWi-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" source="6abO8dJqht20hs6ITtWi-5" target="6abO8dJqht20hs6ITtWi-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6abO8dJqht20hs6ITtWi-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" source="6abO8dJqht20hs6ITtWi-5" target="6abO8dJqht20hs6ITtWi-6" edge="1">
+        <mxCell id="6abO8dJqht20hs6ITtWi-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" source="6abO8dJqht20hs6ITtWi-5" target="6abO8dJqht20hs6ITtWi-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6abO8dJqht20hs6ITtWi-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=28;fontStyle=0;strokeWidth=2;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6abO8dJqht20hs6ITtWi-5" target="6abO8dJqht20hs6ITtWi-9" edge="1">
@@ -46,13 +46,13 @@
           <mxGeometry x="655" y="251" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="6abO8dJqht20hs6ITtWi-6" value="图片" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="500" y="36" width="144" height="79" as="geometry" />
+          <mxGeometry x="475" y="72" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="6abO8dJqht20hs6ITtWi-7" value="单价" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="815" width="144" height="79" as="geometry" />
+          <mxGeometry x="799" y="-2" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="6abO8dJqht20hs6ITtWi-8" value="购买数量" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="648" y="-11" width="144" height="79" as="geometry" />
+          <mxGeometry x="619" y="25" width="144" height="79" as="geometry" />
         </mxCell>
         <mxCell id="6abO8dJqht20hs6ITtWi-9" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;fontStyle=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="891" y="82" width="144" height="79" as="geometry" />

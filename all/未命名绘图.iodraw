@@ -159,7 +159,7 @@
           <mxGeometry x="19402" y="1405" width="139" height="53" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1450" value="我的收藏" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
-          <mxGeometry x="2708" y="34" width="155" height="72" as="geometry" />
+          <mxGeometry x="1730" y="236" width="155" height="72" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1451" value="地址" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
           <mxGeometry x="8783" y="1405" width="135" height="73" as="geometry" />
@@ -227,7 +227,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1470" value="举报" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10718" y="1543" width="83" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1471" value="聊天交友" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-45;" vertex="1" parent="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1471" value="聊天交友" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-55;" vertex="1" parent="1">
           <mxGeometry x="1785" y="505" width="144" height="172" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1472" value="发消息" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=0;direction=south;" vertex="1" parent="1">

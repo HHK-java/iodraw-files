@@ -192,7 +192,7 @@
           <mxGeometry x="3331" y="683" width="176" height="79" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1461" value="视频上传评论" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
-          <mxGeometry x="5720" y="1715" width="195" height="90" as="geometry" />
+          <mxGeometry x="2010" y="1246" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1462" value="分配记录" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
           <mxGeometry x="7686" y="1715" width="163" height="69" as="geometry" />
@@ -849,43 +849,43 @@
           <mxGeometry x="3061.5" y="510.5" width="147" height="99" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1680" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6515" y="1814" width="70" height="34" as="geometry" />
+          <mxGeometry x="5123" y="1866" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1681" value="关联表ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6379" y="1814" width="86" height="34" as="geometry" />
+          <mxGeometry x="4987" y="1866" width="86" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1682" value="用户ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6259" y="1814" width="70" height="34" as="geometry" />
+          <mxGeometry x="4867" y="1866" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1683" value="头像" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6153" y="1814" width="57" height="34" as="geometry" />
+          <mxGeometry x="4761" y="1866" width="57" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1684" value="用户名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6031" y="1814" width="72" height="34" as="geometry" />
+          <mxGeometry x="4639" y="1866" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1685" value="评论内容" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5893" y="1814" width="89" height="34" as="geometry" />
+          <mxGeometry x="4501" y="1866" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1686" value="回复内容" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5755" y="1814" width="88" height="34" as="geometry" />
+          <mxGeometry x="4363" y="1866" width="88" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1687" value="赞" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5665" y="1814" width="41" height="34" as="geometry" />
+          <mxGeometry x="4273" y="1866" width="41" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1688" value="踩" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5573" y="1814" width="42" height="34" as="geometry" />
+          <mxGeometry x="4181" y="1866" width="42" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1689" value="置顶" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5467" y="1814" width="57" height="34" as="geometry" />
+          <mxGeometry x="4075" y="1866" width="57" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1690" value="赞用户IDs" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5324" y="1814" width="93" height="34" as="geometry" />
+          <mxGeometry x="3932" y="1866" width="93" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1691" value="踩用户IDs" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5180" y="1814" width="94" height="34" as="geometry" />
+          <mxGeometry x="3788" y="1866" width="94" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1692" value="创建时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5042" y="1814" width="89" height="34" as="geometry" />
+          <mxGeometry x="3650" y="1866" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1693" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9474" y="1814" width="70" height="34" as="geometry" />

@@ -192,7 +192,7 @@
           <mxGeometry x="3331" y="683" width="176" height="79" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1461" value="视频上传评论" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
-          <mxGeometry x="3760" y="1263" width="195" height="90" as="geometry" />
+          <mxGeometry x="3336" y="1182" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1462" value="分配记录" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
           <mxGeometry x="7686" y="1715" width="163" height="69" as="geometry" />
@@ -2569,7 +2569,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1981" value="" style="startArrow=none;endArrow=none;exitX=0.93;exitY=1;entryX=0.49;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1461" target="PPCym6xtzCGgwvmWuu8L-1685">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1982" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1461" target="PPCym6xtzCGgwvmWuu8L-1686">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1982" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1461" target="PPCym6xtzCGgwvmWuu8L-1686">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>

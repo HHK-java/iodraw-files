@@ -981,7 +981,7 @@
           <mxGeometry x="1800" y="1427" width="122" height="85" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1725" value="IP地址" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="1892" y="1344" width="103" height="70" as="geometry" />
+          <mxGeometry x="1875" y="1341" width="103" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1726" value="创建时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;autosize=0;" vertex="1" parent="1">
           <mxGeometry x="2082" y="1349" width="129" height="81" as="geometry" />

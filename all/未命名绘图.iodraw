@@ -692,10 +692,10 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1626" value="创建时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="7951" y="1568" width="89" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1627" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1627" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1933" y="815" width="70" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1628" value="会话ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1628" value="会话ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1813" y="815" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1629" value="发送者ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
@@ -711,7 +711,7 @@
           <mxGeometry x="1261" y="815" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1633" value="是否已读" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1122" y="815" width="89" height="34" as="geometry" />
+          <mxGeometry x="1300" y="488" width="129" height="89" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1634" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="14756" y="1250" width="70" height="34" as="geometry" />

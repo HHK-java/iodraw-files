@@ -702,7 +702,7 @@
           <mxGeometry x="1513" y="825" width="132" height="79" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1630" value="消息内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1325" y="796" width="136" height="81" as="geometry" />
+          <mxGeometry x="1323" y="774" width="136" height="81" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1631" value="消息类型" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1241" y="685" width="136" height="89" as="geometry" />
@@ -2219,8 +2219,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1923" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.69;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1456" target="PPCym6xtzCGgwvmWuu8L-1627">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1923" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1456">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1568" y="547" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1924" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.74;entryX=0.63;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1456" target="PPCym6xtzCGgwvmWuu8L-1628">
           <mxGeometry relative="1" as="geometry" />

@@ -240,7 +240,7 @@
           <mxGeometry x="5742" y="1527" width="146" height="175" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1476" value="上传视频" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="5306" y="1210" width="157" height="180" as="geometry" />
+          <mxGeometry x="3449" y="1110" width="157" height="180" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1477" value="申请回收" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2648" y="1271" width="158" height="178" as="geometry" />

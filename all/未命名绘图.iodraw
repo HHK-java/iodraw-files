@@ -813,16 +813,16 @@
           <mxGeometry x="5344" y="1568" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1668" value="图片" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="5238" y="1568" width="114" height="84" as="geometry" />
+          <mxGeometry x="3724" y="896" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1669" value="视频内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="5100" y="1568" width="114" height="84" as="geometry" />
+          <mxGeometry x="3786" y="748" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1670" value="服饰标签" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="4961" y="1568" width="114" height="84" as="geometry" />
+          <mxGeometry x="3567" y="875" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1671" value="上传时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="4824" y="1568" width="114" height="84" as="geometry" />
+          <mxGeometry x="3433" y="868" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1672" value="用户账号" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="3302" y="879" width="114" height="84" as="geometry" />

@@ -165,7 +165,7 @@
           <mxGeometry x="8783" y="1405" width="135" height="73" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1452" value="育儿论坛" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
-          <mxGeometry x="11102" y="1405" width="161" height="73" as="geometry" />
+          <mxGeometry x="11170" y="652" width="161" height="73" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1453" value="论坛类型" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
           <mxGeometry x="11282" y="1079" width="146" height="68" as="geometry" />
@@ -633,10 +633,10 @@
           <mxGeometry x="10887" y="1589" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1607" value="是否删除" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10753" y="1530" width="90" height="34" as="geometry" />
+          <mxGeometry x="10844" y="532" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1608" value="创建时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10650" y="1481" width="89" height="34" as="geometry" />
+          <mxGeometry x="10955" y="485" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1609" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10156" y="1250" width="70" height="34" as="geometry" />

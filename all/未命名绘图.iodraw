@@ -864,10 +864,10 @@
           <mxGeometry x="4639" y="1866" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1685" value="评论内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3231" y="1475" width="89" height="34" as="geometry" />
+          <mxGeometry x="3224" y="1458" width="143" height="81" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1686" value="回复内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3091.5" y="1454" width="117" height="61" as="geometry" />
+          <mxGeometry x="3061.5" y="1420" width="131.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1687" value="赞" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="3398" y="1020" width="80" height="51" as="geometry" />

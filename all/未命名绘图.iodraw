@@ -555,7 +555,7 @@
           <mxGeometry x="2132.93" y="108" width="125" height="55" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1581" value="图片" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2023" y="71" width="102" height="59.5" as="geometry" />
+          <mxGeometry x="2099" y="29" width="102" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1582" value="类型" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1968.43" y="-8" width="120" height="67" as="geometry" />
@@ -1775,7 +1775,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1873" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.75;entryX=-0.01;entryY=0.39;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1450" target="PPCym6xtzCGgwvmWuu8L-1577">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1874" value="" style="startArrow=none;endArrow=none;exitX=0.71;exitY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1450" target="PPCym6xtzCGgwvmWuu8L-1578">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1874" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1450" target="PPCym6xtzCGgwvmWuu8L-1578">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1741" y="420" as="targetPoint" />
           </mxGeometry>

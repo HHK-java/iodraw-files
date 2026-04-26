@@ -176,8 +176,8 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1455" value="聊天好友" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="7227" y="1405" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1456" value="聊天消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6515" y="1405" width="126" height="49" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1456" value="聊天消息" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
+          <mxGeometry x="6515" y="1405" width="166" height="73" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1457" value="优惠券" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="12304" y="1079" width="110" height="49" as="geometry" />
@@ -192,7 +192,7 @@
           <mxGeometry x="5300" y="1405" width="176" height="79" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1461" value="视频上传评论" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
-          <mxGeometry x="5720" y="1715" width="158" height="49" as="geometry" />
+          <mxGeometry x="5720" y="1715" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1462" value="分配记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="7686" y="1715" width="126" height="49" as="geometry" />

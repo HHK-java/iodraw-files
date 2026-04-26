@@ -879,13 +879,13 @@
           <mxGeometry x="4075" y="1866" width="57" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1690" value="赞用户IDs" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3932" y="1866" width="93" height="34" as="geometry" />
+          <mxGeometry x="3541" y="1863" width="123" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1691" value="踩用户IDs" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3142" y="1016" width="146" height="94" as="geometry" />
+          <mxGeometry x="3104" y="1014" width="146" height="94" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1692" value="创建时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2988" y="1037" width="133" height="80" as="geometry" />
+          <mxGeometry x="2969" y="1064" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1693" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9474" y="1814" width="70" height="34" as="geometry" />

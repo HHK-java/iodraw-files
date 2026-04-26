@@ -944,10 +944,10 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1712" value="图片" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="3213" y="1568" width="114" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1713" value="上门时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1713" value="上门时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="3076" y="1568" width="114" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1714" value="回收进度" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1714" value="回收进度" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="2938" y="1568" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1715" value="备注" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">

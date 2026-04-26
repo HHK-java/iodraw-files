@@ -254,8 +254,8 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1481" value="论坛分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="11647" y="1209" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1482" value="产生日志" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1956" y="1185" width="115" height="115" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1482" value="产生日志" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
+          <mxGeometry x="1944" y="1138" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1483" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="791" y="1250" width="70" height="34" as="geometry" />
@@ -1310,7 +1310,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1775" value="1" style="startArrow=none;endArrow=none;exitX=1;exitY=0.69;entryX=0;entryY=0.45;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1443" target="PPCym6xtzCGgwvmWuu8L-1482">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1777" value="1" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.5;entryX=0.58;entryY=0;rounded=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1444" target="PPCym6xtzCGgwvmWuu8L-1482">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1777" value="1" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.75;entryX=0.58;entryY=0;rounded=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1444" target="PPCym6xtzCGgwvmWuu8L-1482">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>

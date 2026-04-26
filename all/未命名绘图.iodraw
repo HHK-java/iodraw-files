@@ -855,7 +855,7 @@
           <mxGeometry x="4987" y="1866" width="86" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1682" value="用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3730" y="1525" width="70" height="34" as="geometry" />
+          <mxGeometry x="3608" y="1425" width="126" height="58" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1683" value="头像" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="3487" y="1438" width="106" height="57" as="geometry" />
@@ -2554,7 +2554,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1976" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1461" target="PPCym6xtzCGgwvmWuu8L-1680">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1977" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1461" target="PPCym6xtzCGgwvmWuu8L-1681">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1977" value="" style="ellipse;startArrow=none;endArrow=none;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1461" target="PPCym6xtzCGgwvmWuu8L-1681">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1978" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.66;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1461" target="PPCym6xtzCGgwvmWuu8L-1682">

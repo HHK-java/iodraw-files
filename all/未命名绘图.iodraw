@@ -1230,11 +1230,6 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1763" value="1" style="startArrow=none;endArrow=none;exitX=1;exitY=0.56;entryX=0;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1444" target="PPCym6xtzCGgwvmWuu8L-1477">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1764" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1716" target="PPCym6xtzCGgwvmWuu8L-1463">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1765" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.54;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1463" target="PPCym6xtzCGgwvmWuu8L-1478">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2883,20 +2878,20 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1493" value="宝宝性别" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="2082" y="980" width="124" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-2159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1477" target="PPCym6xtzCGgwvmWuu8L-1716">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-2159" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1477" target="PPCym6xtzCGgwvmWuu8L-1716">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="3078" y="910" as="sourcePoint" />
             <mxPoint x="3306" y="1335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-2160" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=default;strokeWidth=2;arcSize=50;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" connectable="0" parent="PPCym6xtzCGgwvmWuu8L-2159">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-2160" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;strokeWidth=2;arcSize=50;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="PPCym6xtzCGgwvmWuu8L-2159">
           <mxGeometry x="0.494" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1716" value="用户账号" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="3141" y="1138" width="127" height="87" as="geometry" />
+          <mxGeometry x="3187" y="1121.5" width="127" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

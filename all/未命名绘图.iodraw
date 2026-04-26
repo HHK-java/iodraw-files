@@ -899,8 +899,8 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1695" value="衣服名称" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2743" y="2279" width="90" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1696" value="图片" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2638" y="2279" width="97" height="87" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1696" value="图片" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2638" y="2279" width="84" height="77" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1697" value="上门时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2506" y="2295" width="118" height="93" as="geometry" />

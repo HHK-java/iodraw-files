@@ -980,8 +980,8 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1724" value="请求时长" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;aspect=fixed;autosize=0;" vertex="1" parent="1">
           <mxGeometry x="1624" y="1568" width="289.06" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1725" value="IP地址" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;aspect=fixed;autosize=0;" vertex="1" parent="1">
-          <mxGeometry x="1554" y="1222.5" width="302.82" height="88" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1725" value="IP地址" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="1308" width="149" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1726" value="创建时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;aspect=fixed;autosize=0;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1527" width="230.55" height="67" as="geometry" />

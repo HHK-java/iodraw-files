@@ -230,11 +230,6 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1471" value="聊天交友" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="7233" y="1209" width="144" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-2169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1472">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2033" y="1010.454545454545" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1472" value="发消息" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=51;" vertex="1" parent="1">
           <mxGeometry x="1820" y="948" width="122" height="156" as="geometry" />
         </mxCell>
@@ -1132,7 +1127,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1747" value="1" style="startArrow=none;endArrow=none;exitX=0;exitY=0.122;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1444" target="PPCym6xtzCGgwvmWuu8L-1472">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1748" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1472" target="PPCym6xtzCGgwvmWuu8L-1456">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1748" value="n" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1472" target="PPCym6xtzCGgwvmWuu8L-1456">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>

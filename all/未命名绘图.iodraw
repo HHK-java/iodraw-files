@@ -242,8 +242,8 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1476" value="上传视频" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="5306" y="1210" width="114" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1477" value="申请回收" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2703" y="1237" width="114" height="114" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1477" value="申请回收" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2731" y="1197" width="158" height="178" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1478" value="分配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="7707" y="1543" width="83" height="83" as="geometry" />

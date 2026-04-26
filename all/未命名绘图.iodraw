@@ -609,16 +609,16 @@
           <mxGeometry x="11560" y="1697" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1599" value="用户名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11282" y="1694" width="72" height="34" as="geometry" />
+          <mxGeometry x="11455" y="679" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1600" value="头像" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11312" y="1674" width="57" height="34" as="geometry" />
+          <mxGeometry x="10912" y="762" width="57" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1601" value="状态" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11320" y="1629" width="58" height="34" as="geometry" />
+          <mxGeometry x="10878" y="649" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1602" value="是否置顶" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11185" y="1668" width="89" height="34" as="geometry" />
+          <mxGeometry x="11428" y="594" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1603" value="置顶时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11419" y="522" width="89" height="34" as="geometry" />

@@ -212,7 +212,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1466" value="加购" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="19416" y="1226" width="82" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1467" value="下单" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1467" value="下单" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="17259" y="1226" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1468" value="收藏" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -251,8 +251,8 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1479" value="发布服饰" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="8796" y="891" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1480" value="服饰分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="17648" y="892" width="114" height="114" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1480" value="服饰分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="17648" y="892" width="165" height="177" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1481" value="论坛分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="11647" y="1209" width="135" height="161" as="geometry" />

@@ -174,7 +174,7 @@
           <mxGeometry x="10696" y="1715" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1455" value="聊天好友" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
-          <mxGeometry x="5792" y="1323" width="183" height="70" as="geometry" />
+          <mxGeometry x="4864" y="1176.5" width="183" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1456" value="聊天消息" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" vertex="1" parent="1">
           <mxGeometry x="1621" y="743" width="166" height="73" as="geometry" />
@@ -675,22 +675,22 @@
           <mxGeometry x="9594" y="1814" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1621" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6026" y="1520" width="70" height="34" as="geometry" />
+          <mxGeometry x="5108" y="1525" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1622" value="用户ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5906" y="1520" width="70" height="34" as="geometry" />
+          <mxGeometry x="4988" y="1525" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1623" value="好友ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5785" y="1520" width="71" height="34" as="geometry" />
+          <mxGeometry x="4867" y="1525" width="71" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1624" value="表名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5679" y="1520" width="57" height="34" as="geometry" />
+          <mxGeometry x="4761" y="1525" width="57" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1625" value="备注" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5572" y="1520" width="57" height="34" as="geometry" />
+          <mxGeometry x="4654" y="1525" width="57" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1626" value="创建时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5434" y="1520" width="89" height="34" as="geometry" />
+          <mxGeometry x="4516" y="1525" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1627" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1563" y="529" width="126" height="87" as="geometry" />

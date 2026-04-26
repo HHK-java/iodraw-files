@@ -230,6 +230,11 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1471" value="聊天交友" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="7233" y="1209" width="144" height="172" as="geometry" />
         </mxCell>
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-2172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1472">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2016.636363636363" y="1050.454545454545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1472" value="发消息" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=51;" vertex="1" parent="1">
           <mxGeometry x="1820" y="948" width="122" height="156" as="geometry" />
         </mxCell>
@@ -696,7 +701,7 @@
           <mxGeometry x="1432" y="418" width="126" height="87" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1628" value="会话ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1587" y="410" width="125" height="85" as="geometry" />
+          <mxGeometry x="1583" y="405" width="125" height="85" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1629" value="发送者ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1468" y="807" width="132" height="79" as="geometry" />
@@ -2224,7 +2229,7 @@
             <mxPoint x="1568" y="547" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1924" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.74;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1456" target="PPCym6xtzCGgwvmWuu8L-1628">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1924" value="" style="startArrow=none;endArrow=none;exitX=0.75;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1456" target="PPCym6xtzCGgwvmWuu8L-1628">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1925" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1456" target="PPCym6xtzCGgwvmWuu8L-1629">

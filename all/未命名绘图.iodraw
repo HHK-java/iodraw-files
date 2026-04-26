@@ -230,13 +230,8 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1471" value="聊天交友" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="7233" y="1209" width="144" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-2172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1472">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2016.636363636363" y="1050.454545454545" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1472" value="发消息" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=51;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="948" width="122" height="156" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1472" value="发消息" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=51;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1746" y="798.5" width="156" height="122" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1473" value="领取优惠券" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="11466" y="1201" width="182" height="194" as="geometry" />

@@ -929,10 +929,10 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1705" value="商家姓名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1846" y="2109" width="88" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1706" value="跨表用户ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1693" y="2109" width="103" height="34" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1706" value="跨表用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1693" y="2109" width="153" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1707" value="跨表主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1707" value="跨表主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1540" y="2109" width="146" height="101" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1708" value="创建时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">

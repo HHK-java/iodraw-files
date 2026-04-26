@@ -905,14 +905,14 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1697" value="上门时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2500" y="2279" width="88" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1698" value="回收进度" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2363" y="2279" width="88" height="34" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1698" value="回收进度" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2363" y="2279" width="125" height="88" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1699" value="备注" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2265" y="2216" width="98" height="50" as="geometry" />
+          <mxGeometry x="2170" y="2343" width="98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1700" value="回收合作方" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2198.5" y="2333" width="151.5" height="77" as="geometry" />
+          <mxGeometry x="2248" y="2086" width="151.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1701" value="分配时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2073" y="2152" width="168" height="84" as="geometry" />

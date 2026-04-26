@@ -924,13 +924,13 @@
           <mxGeometry x="2122" y="2109" width="88" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1704" value="商家账号" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1983" y="2109" width="89" height="34" as="geometry" />
+          <mxGeometry x="1967" y="2245" width="89" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1705" value="商家姓名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1846" y="2109" width="88" height="34" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1705" value="商家姓名" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1823" y="2170" width="122" height="91" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1706" value="跨表用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1693" y="2109" width="156" height="111" as="geometry" />
+          <mxGeometry x="1634" y="2146" width="156" height="111" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1707" value="跨表主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1560" y="2023" width="146" height="101" as="geometry" />

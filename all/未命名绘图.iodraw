@@ -2378,7 +2378,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1996" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1462" target="PPCym6xtzCGgwvmWuu8L-1700">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1997" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1462" target="PPCym6xtzCGgwvmWuu8L-1701">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1997" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.21;exitY=1;entryX=0.49;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1462" target="PPCym6xtzCGgwvmWuu8L-1701">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="7676" y="1789" />

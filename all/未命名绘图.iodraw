@@ -542,19 +542,19 @@
           <mxGeometry x="9172" y="1588.48" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1638" value="优惠金额" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="9033" y="1588.48" width="90" height="34" as="geometry" />
+          <mxGeometry x="8873" y="1184" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1639" value="有效期开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="8877" y="1588.48" width="106" height="34" as="geometry" />
+          <mxGeometry x="8720" y="1184" width="106" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1640" value="有效期结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="8722" y="1588.48" width="106" height="34" as="geometry" />
+          <mxGeometry x="8578" y="1161.5" width="106" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1641" value="发放数量" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="8582" y="1588.48" width="90" height="34" as="geometry" />
+          <mxGeometry x="8430" y="1097" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1642" value="已使用数量" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="8428" y="1588.48" width="105" height="34" as="geometry" />
+          <mxGeometry x="8368" y="1004" width="105" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1643" value="状态" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="8387" y="926" width="58" height="34" as="geometry" />

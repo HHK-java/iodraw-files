@@ -70,7 +70,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1464" value="操作日志" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" parent="1" vertex="1">
           <mxGeometry x="1592" y="1734.75" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1465" value="拥有地址" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1465" value="拥有地址" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="1171" y="1014.6300000000001" width="152.52" height="185.75" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1466" value="加购" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">

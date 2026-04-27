@@ -98,7 +98,7 @@
           <mxGeometry x="1858" y="904" width="156" height="122" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1473" value="领取优惠券" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="3997" y="740" width="182" height="194" as="geometry" />
+          <mxGeometry x="2993" y="1500" width="182" height="194" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1474" value="服饰评价" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1853" y="165" width="175" height="140" as="geometry" />
@@ -533,7 +533,7 @@
           <mxGeometry x="3866" y="2127" width="155" height="101" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1641" value="发放数量" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3593" y="2060" width="117" height="89" as="geometry" />
+          <mxGeometry x="3566" y="2060" width="137" height="98" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1644" value="创建时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="3743" y="1777" width="146" height="98" as="geometry" />

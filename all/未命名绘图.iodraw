@@ -350,7 +350,7 @@
           <mxGeometry x="8597" y="514" width="112" height="89" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1572" value="折扣价" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="8514" y="100" width="141" height="72.5" as="geometry" />
+          <mxGeometry x="8514" y="100" width="127" height="89" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1573" value="用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="8278" y="528" width="133" height="100" as="geometry" />
@@ -2084,7 +2084,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1565" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="8666" y="166" width="137" height="99" as="geometry" />
+          <mxGeometry x="8652" y="146" width="137" height="99" as="geometry" />
         </mxCell>
         <mxCell id="iI2RWeMDbYF0NdwieU4T-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1466" target="PPCym6xtzCGgwvmWuu8L-1566">
           <mxGeometry relative="1" as="geometry">
@@ -2096,7 +2096,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1566" value="商品表名" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="8722" y="277" width="135" height="99" as="geometry" />
+          <mxGeometry x="8717" y="245" width="135" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

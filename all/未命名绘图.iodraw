@@ -740,10 +740,10 @@
           <mxGeometry x="3187" y="1891" width="125" height="88" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1699" value="备注" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2163" y="2312" width="98" height="50" as="geometry" />
+          <mxGeometry x="2297" y="2357" width="98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1700" value="回收合作方" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2286.5" y="2287" width="151.5" height="77" as="geometry" />
+          <mxGeometry x="2414.5" y="2343.5" width="151.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1701" value="分配时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1968.43" y="2291" width="168" height="84" as="geometry" />

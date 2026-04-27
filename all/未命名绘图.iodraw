@@ -62,7 +62,7 @@
           <mxGeometry x="3783.5" y="1174" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1462" value="分配记录" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" parent="1" vertex="1">
-          <mxGeometry x="2962.5" y="2111" width="163" height="69" as="geometry" />
+          <mxGeometry x="2504.5" y="2194" width="163" height="69" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-2161" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;labelBackgroundColor=default;startArrow=none;endArrow=none;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1463" target="PPCym6xtzCGgwvmWuu8L-1716" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="2178" y="1300.5" width="160" height="162" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1478" value="分配" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2990" y="1614.63" width="118" height="128.5" as="geometry" />
+          <mxGeometry x="2553.5" y="1820.2400000000002" width="118" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1480" value="服饰分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="7394" y="-251" width="165" height="177" as="geometry" />
@@ -674,58 +674,58 @@
           <mxGeometry x="3425.5" y="1070.5" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1693" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3208.5" y="1954.75" width="106" height="81" as="geometry" />
+          <mxGeometry x="2750.5" y="2037.75" width="106" height="81" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1694" value="分配编码" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3266" y="2039" width="122" height="83" as="geometry" />
+          <mxGeometry x="2808" y="2122" width="122" height="83" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1695" value="衣服名称" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3296" y="2141" width="129" height="82" as="geometry" />
+          <mxGeometry x="2838" y="2224" width="129" height="82" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1696" value="图片" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3296" y="2236" width="123" height="73" as="geometry" />
+          <mxGeometry x="2838" y="2319" width="123" height="73" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1697" value="上门时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3247" y="2316.5" width="125" height="96" as="geometry" />
+          <mxGeometry x="2789" y="2399.5" width="125" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1698" value="回收进度" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3087" y="1900" width="125" height="88" as="geometry" />
+          <mxGeometry x="2629" y="1983" width="125" height="88" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1699" value="备注" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3002.5" y="2411" width="100" height="60.5" as="geometry" />
+          <mxGeometry x="2544.5" y="2494" width="100" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1700" value="回收合作方" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3108" y="2373" width="148" height="104" as="geometry" />
+          <mxGeometry x="2650" y="2456" width="148" height="104" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1701" value="分配时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2842" y="2391" width="145" height="94" as="geometry" />
+          <mxGeometry x="2384" y="2474" width="145" height="94" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1702" value="用户账号" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2878.5" y="1861" width="133" height="97" as="geometry" />
+          <mxGeometry x="2420.5" y="1944" width="133" height="97" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1703" value="用户姓名" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2739" y="1878" width="134" height="91" as="geometry" />
+          <mxGeometry x="2281" y="1961" width="134" height="91" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1704" value="商家账号" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2713" y="2359" width="121" height="84" as="geometry" />
+          <mxGeometry x="2255" y="2442" width="121" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1705" value="商家姓名" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2608" y="2279" width="122" height="91" as="geometry" />
+          <mxGeometry x="2150" y="2362" width="122" height="91" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1706" value="跨表用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2577" y="2158" width="149" height="104" as="geometry" />
+          <mxGeometry x="2119" y="2241" width="149" height="104" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1707" value="跨表主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2577" y="2042" width="153" height="99" as="geometry" />
+          <mxGeometry x="2119" y="2125" width="153" height="99" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1708" value="创建时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2614" y="1934.75" width="129" height="101" as="geometry" />
+          <mxGeometry x="2156" y="2017.75" width="129" height="101" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1709" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="2404" y="1493.13" width="117" height="87" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1711" value="衣服名称" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2441" y="1771.13" width="114" height="84" as="geometry" />
+          <mxGeometry x="2499" y="1731.98" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1712" value="图片" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="2295" y="1805.13" width="114" height="84" as="geometry" />
@@ -1656,7 +1656,7 @@
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-2000" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=1;entryX=1;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1462" target="PPCym6xtzCGgwvmWuu8L-1704" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2601" y="2296" as="targetPoint" />
+            <mxPoint x="2143" y="2379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-2001" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.6;entryX=1;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1462" target="PPCym6xtzCGgwvmWuu8L-1705" edge="1">

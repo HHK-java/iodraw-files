@@ -47,7 +47,7 @@
           <mxGeometry x="1615" y="826" width="166" height="73" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1457" value="优惠券" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" parent="1" vertex="1">
-          <mxGeometry x="6598" y="1613.48" width="131" height="66" as="geometry" />
+          <mxGeometry x="8672" y="925" width="131" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1458" value="我的优惠券" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" parent="1" vertex="1">
           <mxGeometry x="8449" y="1743.48" width="195" height="61" as="geometry" />

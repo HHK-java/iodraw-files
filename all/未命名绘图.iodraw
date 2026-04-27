@@ -461,7 +461,7 @@
           <mxGeometry x="6366" y="1928" width="121" height="91" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1613" value="举报内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6438" y="2016" width="137" height="106" as="geometry" />
+          <mxGeometry x="6453" y="2016" width="137" height="106" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1614" value="举报类型" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="6440" y="2160" width="125" height="91.48" as="geometry" />

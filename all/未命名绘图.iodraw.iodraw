@@ -65,16 +65,16 @@
           <mxGeometry x="2909" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-22" value="民宿信息" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3053" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="2990" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-23" value="服务信息" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3228" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="3060" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-24" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3403" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="3130" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-25" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3579" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="3200" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-26" value="预订订单" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="3754" y="548" width="55" height="312" as="geometry" />

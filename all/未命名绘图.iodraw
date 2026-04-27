@@ -310,11 +310,11 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1544" value="折扣价" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="17900" y="1568" width="74" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1545" value="总价" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="17792" y="1568" width="58" height="34" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1545" value="总价" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="17792" y="1568" width="108" height="69" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1546" value="折扣总价格" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="17220" y="1603.5" width="164" height="102.5" as="geometry" />
+          <mxGeometry x="16940" y="1274" width="164" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1548" value="订单状态" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="16574" y="1239" width="153" height="76" as="geometry" />

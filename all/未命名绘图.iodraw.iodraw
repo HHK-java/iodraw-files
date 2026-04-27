@@ -308,8 +308,7 @@
         <mxCell id="y33v_aBjuY59mo9h5X9G-64" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="y33v_aBjuY59mo9h5X9G-4" target="y33v_aBjuY59mo9h5X9G-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2929" y="500" />
-              <mxPoint x="2980" y="500" />
+              <mxPoint x="2980" y="498" />
               <mxPoint x="2980" y="510" />
               <mxPoint x="2676" y="510" />
             </Array>
@@ -326,7 +325,9 @@
         <mxCell id="y33v_aBjuY59mo9h5X9G-66" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="y33v_aBjuY59mo9h5X9G-4" target="y33v_aBjuY59mo9h5X9G-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2929" y="510" />
+              <mxPoint x="2929" y="500" />
+              <mxPoint x="2980" y="500" />
+              <mxPoint x="2980" y="510" />
               <mxPoint x="2816" y="510" />
             </Array>
           </mxGeometry>

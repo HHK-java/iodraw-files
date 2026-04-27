@@ -533,10 +533,10 @@
           <mxGeometry x="10246" y="1588.48" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1635" value="券名称" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="8698" y="721" width="105" height="82" as="geometry" />
+          <mxGeometry x="8705" y="721" width="105" height="82" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1636" value="券类型" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="8810" y="766" width="100" height="82" as="geometry" />
+          <mxGeometry x="8836" y="737.5" width="100" height="82" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1638" value="优惠金额" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="8850" y="985" width="122" height="98" as="geometry" />
@@ -1559,10 +1559,10 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1930" value="" style="startArrow=none;endArrow=none;exitX=0.82;exitY=1;entryX=0;entryY=0.44;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1634" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1931" value="" style="startArrow=none;endArrow=none;exitX=0.26;exitY=1;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1635" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1931" value="" style="startArrow=none;endArrow=none;exitX=0.25;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1635" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1932" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=1;entryX=0;entryY=0.42;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1636" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1932" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=1;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1636" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1933" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.82;entryX=0;entryY=0.4;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1637" edge="1">

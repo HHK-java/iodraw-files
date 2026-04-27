@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y33v_aBjuY59mo9h5X9G-2" value="民宿点评管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3810" y="350" width="188" height="49" as="geometry" />
+          <mxGeometry x="2765" y="300" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-3" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1810" y="420" width="109" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="2320" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-20" value="注册" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="2765" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="2831.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-21" value="登录" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2909" y="548" width="55" height="312" as="geometry" />

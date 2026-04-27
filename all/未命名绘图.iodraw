@@ -35,7 +35,7 @@
           <mxGeometry x="5801" y="1402.5" width="146" height="68" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1454" value="论坛举报" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" parent="1" vertex="1">
-          <mxGeometry x="6186" y="2053.48" width="157" height="64.52" as="geometry" />
+          <mxGeometry x="5256" y="867.48" width="157" height="64.52" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1455" value="聊天好友" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" parent="1" vertex="1">
           <mxGeometry x="1292" y="438" width="183" height="70" as="geometry" />
@@ -452,31 +452,31 @@
           <mxGeometry x="5646" y="1567.72" width="142" height="97.52" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1612" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6426" y="1927" width="121" height="91" as="geometry" />
+          <mxGeometry x="5496" y="741" width="121" height="91" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1613" value="举报内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6455" y="2038.5" width="137" height="106" as="geometry" />
+          <mxGeometry x="5525" y="852.5" width="137" height="106" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1614" value="举报类型" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6434" y="2158" width="125" height="91.48" as="geometry" />
+          <mxGeometry x="5504" y="972" width="125" height="91.48" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1615" value="举报用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6312" y="2225" width="128" height="101" as="geometry" />
+          <mxGeometry x="5382" y="1039" width="128" height="101" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1616" value="被举报用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6125" y="2222" width="158" height="129" as="geometry" />
+          <mxGeometry x="5195" y="1036" width="158" height="129" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1617" value="帖子ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5997" y="2184.24" width="108" height="88.52" as="geometry" />
+          <mxGeometry x="5067" y="998.2399999999998" width="108" height="88.52" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1618" value="处理状态" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5968" y="2056" width="123" height="95" as="geometry" />
+          <mxGeometry x="5038" y="870" width="123" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1619" value="处理结果" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6024" y="1959" width="125" height="88.52" as="geometry" />
+          <mxGeometry x="5094" y="773" width="125" height="88.52" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1620" value="创建时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="6250" y="1894" width="130" height="101" as="geometry" />
+          <mxGeometry x="5320" y="708" width="130" height="101" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1621" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1156" y="419" width="105" height="73" as="geometry" />
@@ -1380,7 +1380,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1914" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.75;entryX=1;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1454" target="PPCym6xtzCGgwvmWuu8L-1618" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1915" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.56;entryX=1;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1454" target="PPCym6xtzCGgwvmWuu8L-1619" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1915" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.25;entryX=1;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1454" target="PPCym6xtzCGgwvmWuu8L-1619" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1916" value="" style="startArrow=none;endArrow=none;exitX=0.75;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1454" target="PPCym6xtzCGgwvmWuu8L-1620" edge="1">

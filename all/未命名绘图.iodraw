@@ -265,7 +265,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1529" value="最近点击时间" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="19548" y="1250" width="121" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1530" value="是否上架" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1530" value="是否上架" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="15715" y="1481" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1531" value="点击次数" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
@@ -1210,13 +1210,6 @@
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1825" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.57;entryX=0;entryY=0.42;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1446" target="PPCym6xtzCGgwvmWuu8L-1529" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1826" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0.01;entryY=0.44;rounded=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1551" target="PPCym6xtzCGgwvmWuu8L-1530" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="15863" y="1165" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1827" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.52;entryX=0;entryY=0.34;rounded=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1446" target="PPCym6xtzCGgwvmWuu8L-1531" edge="1">
           <mxGeometry relative="1" as="geometry">

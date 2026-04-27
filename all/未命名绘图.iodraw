@@ -266,7 +266,7 @@
           <mxGeometry x="19548" y="1250" width="121" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1530" value="是否上架" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="18603" y="1250" width="90" height="34" as="geometry" />
+          <mxGeometry x="15715" y="1481" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1531" value="点击次数" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="15014" y="1250" width="90" height="34" as="geometry" />
@@ -863,13 +863,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="19213" y="1165" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1736" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.52;entryX=0;entryY=0.47;rounded=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1564" target="PPCym6xtzCGgwvmWuu8L-1448" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="14938" y="1369" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -80,7 +80,7 @@
           <mxGeometry x="2113" y="131" width="130" height="121" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1468" value="收藏" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-45;" parent="1" vertex="1">
-          <mxGeometry x="1692" y="1366.24" width="108" height="116" as="geometry" />
+          <mxGeometry x="1464" y="1442" width="108" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1469" value="发帖" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="2785.5" y="487" width="114" height="152" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="3716.83" y="231.5" width="135" height="161" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1482" value="产生日志" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=35;" parent="1" vertex="1">
-          <mxGeometry x="1879" y="1159" width="161" height="177" as="geometry" />
+          <mxGeometry x="1887" y="1343" width="161" height="177" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1483" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1406" y="1203.5" width="117" height="87.5" as="geometry" />

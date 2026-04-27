@@ -113,7 +113,7 @@
           <mxGeometry x="2178" y="1300.5" width="160" height="162" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1478" value="分配" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2527" y="1835.7500000000002" width="118" height="128.5" as="geometry" />
+          <mxGeometry x="2553.5" y="1856.5000000000002" width="118" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1480" value="服饰分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="7394" y="-251" width="165" height="177" as="geometry" />
@@ -898,7 +898,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1765" value="1" style="startArrow=none;endArrow=none;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1463" target="PPCym6xtzCGgwvmWuu8L-1478" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1765" value="1" style="startArrow=none;endArrow=none;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1463" target="PPCym6xtzCGgwvmWuu8L-1478" edge="1">
           <mxGeometry x="0.8937" y="27" relative="1" as="geometry">
             <mxPoint x="2972.2692307692314" y="1790.2788461538466" as="targetPoint" />
             <mxPoint as="offset" />

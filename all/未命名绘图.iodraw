@@ -98,7 +98,7 @@
           <mxGeometry x="2687" y="1300" width="182" height="194" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1474" value="服饰评价" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="1853" y="165" width="175" height="140" as="geometry" />
+          <mxGeometry x="1656.5" y="39" width="175" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1475" value="视频评价" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="3094" y="1017" width="142" height="178" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="2452" y="543.5" width="122" height="75" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1496" value="儿童数量" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2189" y="598.5" width="132" height="94" as="geometry" />
+          <mxGeometry x="2145" y="505" width="132" height="94" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1497" value="是否审核" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="2139.5" y="1106" width="134.5" height="99" as="geometry" />

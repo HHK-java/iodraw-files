@@ -317,13 +317,13 @@
           <mxGeometry x="16377" y="2438" width="133" height="97" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1556" value="用户ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="16234" y="2438" width="118" height="76" as="geometry" />
+          <mxGeometry x="16178" y="2459" width="118" height="76" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1557" value="是否审核" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="16053" y="2447" width="145" height="85" as="geometry" />
+          <mxGeometry x="16027" y="2454" width="145" height="85" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1558" value="回复内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="15893" y="2421" width="148" height="86" as="geometry" />
+          <mxGeometry x="15869" y="2421" width="148" height="86" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1559" value="商户名称" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="15734" y="2345" width="137" height="86" as="geometry" />

@@ -1755,17 +1755,10 @@
           <mxGeometry x="3846.5" y="982" width="166" height="204" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1550" value="地址" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1732" y="-1008" width="98" height="62" as="geometry" />
+          <mxGeometry x="1695" y="-1010" width="98" height="62" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1547" value="支付类型" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1993" y="-1075.5" width="134" height="87.5" as="geometry" />
-        </mxCell>
-        <mxCell id="iI2RWeMDbYF0NdwieU4T-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0.01;entryY=0.44;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1549" target="PPCym6xtzCGgwvmWuu8L-1551">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="4601" y="-2048" as="sourcePoint" />
-            <mxPoint x="4429" y="-1291" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1553" value="备注" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2397" y="-166.5" width="114" height="71" as="geometry" />

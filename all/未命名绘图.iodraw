@@ -539,7 +539,7 @@
           <mxGeometry x="8836" y="737.5" width="100" height="82" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1638" value="优惠金额" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="8850" y="985" width="122" height="98" as="geometry" />
+          <mxGeometry x="8810" y="1067" width="122" height="98" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1639" value="有效期开始" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="8634" y="1077" width="155" height="101" as="geometry" />
@@ -1565,10 +1565,10 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1932" value="" style="startArrow=none;endArrow=none;exitX=0.75;exitY=0;entryX=0;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1636" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1933" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.82;entryX=0;entryY=0.4;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1637" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1933" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.4;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1637" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1934" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.73;entryX=0;entryY=0.4;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1638" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1934" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0;entryY=0.4;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1638" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1935" value="" style="startArrow=none;endArrow=none;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1639" edge="1">
@@ -2049,10 +2049,7 @@
             <mxPoint x="6291" y="1923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1637" value="使用条件" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="8859" y="864" width="119" height="97" as="geometry" />
-        </mxCell>
-        <mxCell id="iI2RWeMDbYF0NdwieU4T-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=1;entryY=0.46;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1445" target="PPCym6xtzCGgwvmWuu8L-1642">
+        <mxCell id="iI2RWeMDbYF0NdwieU4T-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=1;entryY=0.46;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1637" target="PPCym6xtzCGgwvmWuu8L-1642">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8946" y="855" />
@@ -2074,6 +2071,16 @@
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1643" value="状态" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="8459" y="779" width="94" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iI2RWeMDbYF0NdwieU4T-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=1;entryY=0.46;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1445" target="PPCym6xtzCGgwvmWuu8L-1637">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="4691" y="1347" as="sourcePoint" />
+            <mxPoint x="8529" y="902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1637" value="使用条件" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="8901" y="867" width="119" height="97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

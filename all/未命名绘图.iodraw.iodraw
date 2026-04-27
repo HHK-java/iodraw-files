@@ -254,13 +254,13 @@
             <mxPoint x="2139.5" y="548.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-59" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.56;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-59" value="" style="startArrow=none;endArrow=none;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1919" y="510" />
               <mxPoint x="2204" y="510" />
             </Array>
-            <mxPoint x="1919" y="498.97999999999985" as="sourcePoint" />
+            <mxPoint x="1870" y="500" as="sourcePoint" />
             <mxPoint x="2204" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -276,13 +276,14 @@
             <mxPoint x="2276.49" y="561.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-61" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.54;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="y33v_aBjuY59mo9h5X9G-19">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-61" value="" style="startArrow=none;endArrow=none;rounded=0;endFill=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="y33v_aBjuY59mo9h5X9G-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1919" y="510" />
+              <mxPoint x="1870" y="498" />
+              <mxPoint x="1870" y="510" />
               <mxPoint x="2348" y="510" />
             </Array>
-            <mxPoint x="1919" y="497.99999999999983" as="sourcePoint" />
+            <mxPoint x="1870" y="498" as="sourcePoint" />
             <mxPoint x="2348" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>

@@ -915,12 +915,6 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1769" value="1" style="startArrow=none;endArrow=none;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;labelBackgroundColor=default;endFill=0;fontStyle=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1445" target="PPCym6xtzCGgwvmWuu8L-1479" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1770" value="n" style="startArrow=none;endArrow=none;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1457" target="PPCym6xtzCGgwvmWuu8L-1446" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8742" y="907" as="sourcePoint" />
-            <mxPoint x="8950.5" y="-860.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1771" value="1" style="startArrow=none;endArrow=none;exitX=1;exitY=0.88;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1447" target="PPCym6xtzCGgwvmWuu8L-1480" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1864,15 +1858,6 @@
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1449" value="购物车" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#4DD0E2;" parent="1" vertex="1">
           <mxGeometry x="8414" y="351" width="139" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="iI2RWeMDbYF0NdwieU4T-26" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;arcSize=50;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;fillColor=default;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1452" target="PPCym6xtzCGgwvmWuu8L-1637">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="8512" y="854" />
-            </Array>
-            <mxPoint x="3053" y="273" as="sourcePoint" />
-            <mxPoint x="6291" y="1923" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1642" value="已使用数量" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2702" y="1632.25" width="158.5" height="95.5" as="geometry" />

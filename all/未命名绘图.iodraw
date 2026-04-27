@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sjm-i4mJQh-_WMmqBtxx">
-    <mxGraphModel dx="1743" dy="3007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3115" dy="3710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,7 +810,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1732" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0;entryY=0.41;rounded=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1566" target="PPCym6xtzCGgwvmWuu8L-1449" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1732" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.41;rounded=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1466" target="PPCym6xtzCGgwvmWuu8L-1449" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -2018,16 +2018,6 @@
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1565" value="主键ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="8652" y="146" width="137" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="iI2RWeMDbYF0NdwieU4T-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1466" target="PPCym6xtzCGgwvmWuu8L-1566">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="9605" y="201" />
-              <mxPoint x="9165" y="239" />
-            </Array>
-            <mxPoint x="9921" y="171" as="sourcePoint" />
-            <mxPoint x="8455" y="394" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1566" value="商品表名" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="8717" y="245" width="135" height="99" as="geometry" />

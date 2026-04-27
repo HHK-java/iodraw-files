@@ -85,7 +85,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1469" value="发帖" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="2785.5" y="487" width="114" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1470" value="举报" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1470" value="举报" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-45;" parent="1" vertex="1">
           <mxGeometry x="3213.33" y="-376" width="143" height="152" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1471" value="聊天交友" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-65;" parent="1" vertex="1">
@@ -1894,6 +1894,12 @@
             <mxPoint x="3760" y="1364.52" as="sourcePoint" />
             <mxPoint x="2603" y="943" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iI2RWeMDbYF0NdwieU4T-55" value="n" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;arcSize=50;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;entryDx=0;entryDy=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2881.71" y="-80" as="sourcePoint" />
+            <mxPoint x="3462.71" y="-86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

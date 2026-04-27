@@ -89,7 +89,7 @@
           <mxGeometry x="2807.5" y="505" width="114" height="152" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1470" value="举报" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="6581" y="1702" width="143" height="152" as="geometry" />
+          <mxGeometry x="6681" y="1205" width="143" height="152" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1471" value="聊天交友" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-55;" parent="1" vertex="1">
           <mxGeometry x="1725" y="461" width="144" height="172" as="geometry" />
@@ -871,12 +871,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1752" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0;entryY=0.47;rounded=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1650" target="PPCym6xtzCGgwvmWuu8L-1458" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5660" y="1707.48" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1752" value="n" style="startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0;entryY=0.47;rounded=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1650" target="PPCym6xtzCGgwvmWuu8L-1458" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1753" value="1" style="startArrow=none;endArrow=none;exitX=0.25;exitY=0;entryX=0;entryY=0.49;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1444" target="PPCym6xtzCGgwvmWuu8L-1474" edge="1">
           <mxGeometry x="0.2365" y="37" relative="1" as="geometry">

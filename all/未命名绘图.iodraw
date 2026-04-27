@@ -73,7 +73,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1465" value="拥有地址" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="1290.48" y="1000.0000000000001" width="152.52" height="185.75" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1466" value="加购" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-65;" parent="1" vertex="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1466" value="加购" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-98;" parent="1" vertex="1">
           <mxGeometry x="1374.5" y="-1038.24" width="102" height="136" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1467" value="下单" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -787,7 +787,9 @@
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1732" value="n" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1466" target="PPCym6xtzCGgwvmWuu8L-1449" edge="1">
           <mxGeometry x="-0.8215" y="-17" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="2357" y="-1423" />
+            </Array>
             <mxPoint x="3725.5" y="-1163" as="sourcePoint" />
             <mxPoint y="-1" as="offset" />
           </mxGeometry>

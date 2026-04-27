@@ -113,7 +113,7 @@
           <mxGeometry x="2529" y="1850.0000000000002" width="118" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1480" value="服饰分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-60;" parent="1" vertex="1">
-          <mxGeometry x="326" y="-831.74" width="165" height="177" as="geometry" />
+          <mxGeometry x="322" y="32" width="165" height="177" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1481" value="论坛分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-60;" parent="1" vertex="1">
           <mxGeometry x="3716.83" y="231.5" width="135" height="161" as="geometry" />

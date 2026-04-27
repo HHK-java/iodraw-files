@@ -260,7 +260,7 @@
           <mxGeometry x="547" y="-114.00000000000001" width="145" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1533" value="主键ID" style="ellipse;rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="447" y="709.73" width="126" height="86.27" as="geometry" />
+          <mxGeometry x="555" y="692.73" width="126" height="86.27" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1534" value="服饰分类" style="ellipse;rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="692" y="705" width="132" height="72.52" as="geometry" />
@@ -930,8 +930,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1771" value="1" style="startArrow=none;endArrow=none;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1447" target="PPCym6xtzCGgwvmWuu8L-1480" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1771" value="1" style="startArrow=none;endArrow=none;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;curved=1;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1447" target="PPCym6xtzCGgwvmWuu8L-1480" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="443" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1772" value="n" style="startArrow=none;endArrow=none;exitX=0.5;exitY=0;entryX=0;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1480" target="PPCym6xtzCGgwvmWuu8L-1446" edge="1">
           <mxGeometry x="-0.8484" y="22" relative="1" as="geometry">

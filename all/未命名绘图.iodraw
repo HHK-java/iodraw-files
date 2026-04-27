@@ -98,7 +98,7 @@
           <mxGeometry x="2687" y="1300" width="182" height="194" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1474" value="服饰评价" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="1336" y="109" width="175" height="140" as="geometry" />
+          <mxGeometry x="1781" y="121" width="175" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1475" value="视频评价" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="3611" y="965" width="142" height="178" as="geometry" />

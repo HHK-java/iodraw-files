@@ -218,10 +218,10 @@
           <mxGeometry x="9324" y="-1072" width="139" height="81" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1515" value="封面" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="9214" y="-1059" width="99" height="68" as="geometry" />
+          <mxGeometry x="9216" y="-1057" width="99" height="68" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1516" value="规格" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="9115" y="-1018.5" width="104" height="68" as="geometry" />
+          <mxGeometry x="9112" y="-1024.5" width="104" height="68" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1517" value="年龄段" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="9014" y="-950" width="116" height="77" as="geometry" />
@@ -2065,6 +2065,12 @@
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1522" value="单限" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="9600" y="-509.52" width="94" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="iI2RWeMDbYF0NdwieU4T-36" value="" style="startArrow=none;endArrow=none;exitX=0.76;exitY=1;entryX=0;entryY=0.45;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9297" y="-570" as="sourcePoint" />
+            <mxPoint x="9376" y="-973" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

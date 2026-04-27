@@ -607,11 +607,11 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1654" value="用户ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="5268" y="2285" width="70" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1655" value="头像" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5162" y="2285" width="57" height="34" as="geometry" />
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1655" value="头像" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="5100" y="2337" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1656" value="用户名" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5040" y="2285" width="113" height="80" as="geometry" />
+          <mxGeometry x="4961" y="2339" width="113" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1657" value="评论内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;autosize=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="4823" y="2322" width="128" height="107" as="geometry" />

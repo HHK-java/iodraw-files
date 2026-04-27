@@ -83,7 +83,7 @@
           <mxGeometry x="1518.75" y="1200" width="108" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1469" value="发帖" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="2785.5" y="487" width="114" height="152" as="geometry" />
+          <mxGeometry x="2853" y="504" width="114" height="152" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1470" value="举报" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-75;" parent="1" vertex="1">
           <mxGeometry x="3296" y="-261.74" width="143" height="152" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="1947" y="813.5" width="137.5" height="99" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1499" value="手机号" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2662" y="648" width="146" height="74" as="geometry" />
+          <mxGeometry x="2662" y="648" width="117" height="81" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1500" value="余额" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="2571" y="582.24" width="122" height="72" as="geometry" />
@@ -813,7 +813,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1739" value="1" style="startArrow=none;endArrow=none;exitX=1;exitY=0.51;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1444" target="PPCym6xtzCGgwvmWuu8L-1469" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1739" value="1" style="startArrow=none;endArrow=none;exitX=1;exitY=0;entryX=0.5;entryY=0;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1444" target="PPCym6xtzCGgwvmWuu8L-1469" edge="1">
           <mxGeometry x="0.8233" y="25" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

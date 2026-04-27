@@ -17,27 +17,22 @@
           <mxGeometry x="6054" y="449" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-6" value="登录" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="90" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="690" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-7" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="164" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="764" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-8" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="240" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="840" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-9" value="民宿店家管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="310" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="910" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-10" value="民宿信息管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="386" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="986" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-11" value="预订订单管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="460" y="548" width="55" height="312" as="geometry" />
-        </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y33v_aBjuY59mo9h5X9G-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="740" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1060" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-12" value="退款申请管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1137" y="548" width="55" height="312" as="geometry" />

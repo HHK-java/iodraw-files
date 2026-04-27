@@ -74,7 +74,7 @@
           <mxGeometry x="1290.48" y="1000.0000000000001" width="152.52" height="185.75" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1466" value="加购" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;rotation=-98;" parent="1" vertex="1">
-          <mxGeometry x="1374.5" y="-1038.24" width="102" height="136" as="geometry" />
+          <mxGeometry x="1361.5" y="-1017.5" width="102" height="136" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1467" value="下单" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=default;fontStyle=0;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2122" y="260" width="130" height="121" as="geometry" />

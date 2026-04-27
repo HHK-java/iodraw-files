@@ -284,7 +284,7 @@
           <mxGeometry x="11471" y="932" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1537" value="订单编号" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="17036" y="1848" width="130" height="94" as="geometry" />
+          <mxGeometry x="16885" y="1806" width="130" height="94" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1538" value="商品表名" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="16810" y="1972" width="130" height="99" as="geometry" />
@@ -299,13 +299,13 @@
           <mxGeometry x="16755" y="1705.5" width="106" height="77" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1542" value="购买数量" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="16355" y="1542" width="138" height="76" as="geometry" />
+          <mxGeometry x="16341" y="1502" width="138" height="76" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1544" value="折扣价" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="16659" y="1636" width="117" height="79" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1546" value="折扣总价格" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="16497" y="1568" width="164" height="102.5" as="geometry" />
+          <mxGeometry x="16510" y="1531.75" width="164" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1548" value="订单状态" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="16041" y="1551.5" width="153" height="76" as="geometry" />
@@ -1263,7 +1263,7 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1832" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.25;entryX=0;entryY=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1448" target="PPCym6xtzCGgwvmWuu8L-1536" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPCym6xtzCGgwvmWuu8L-1833" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.55;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1448" target="PPCym6xtzCGgwvmWuu8L-1537" edge="1">
+        <mxCell id="PPCym6xtzCGgwvmWuu8L-1833" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.55;entryX=0;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1448" target="PPCym6xtzCGgwvmWuu8L-1537" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1834" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.56;entryX=0;entryY=0.5;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;entryDx=0;entryDy=0;" parent="1" source="PPCym6xtzCGgwvmWuu8L-1448" target="PPCym6xtzCGgwvmWuu8L-1538" edge="1">
@@ -2074,7 +2074,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1547" value="支付类型" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="16207" y="1538.5" width="134" height="87.5" as="geometry" />
+          <mxGeometry x="16194" y="1490.5" width="134" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="iI2RWeMDbYF0NdwieU4T-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0.01;entryY=0.44;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1549" target="PPCym6xtzCGgwvmWuu8L-1551">
           <mxGeometry relative="1" as="geometry">

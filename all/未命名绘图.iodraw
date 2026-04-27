@@ -338,19 +338,19 @@
           <mxGeometry x="2297" y="-993.5" width="187" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1565" value="主键ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="9415" y="616.48" width="70" height="34" as="geometry" />
+          <mxGeometry x="8740" y="759" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1566" value="商品表名" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="9278" y="616.48" width="88" height="34" as="geometry" />
+          <mxGeometry x="8603" y="759" width="88" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1567" value="商品ID" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="9158" y="616.48" width="70" height="34" as="geometry" />
+          <mxGeometry x="8483" y="759" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1568" value="商品名称" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="9019" y="616.48" width="89" height="34" as="geometry" />
+          <mxGeometry x="8344" y="759" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1569" value="图片" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="8914" y="616.48" width="56" height="34" as="geometry" />
+          <mxGeometry x="8239" y="759" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1570" value="购买数量" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="8774" y="616.48" width="90" height="34" as="geometry" />

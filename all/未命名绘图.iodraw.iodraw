@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="v7oHKdFUgTzL2nduLdoc">
-    <mxGraphModel dx="2041" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="539" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="3810" y="350" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-3" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1266" y="449" width="109" height="49" as="geometry" />
+          <mxGeometry x="1795" y="460" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-4" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3858" y="449" width="92" height="49" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry x="2176" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-18" value="服务预约管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2383" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="2250" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-19" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="2320" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-20" value="注册" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="2765" y="548" width="55" height="312" as="geometry" />

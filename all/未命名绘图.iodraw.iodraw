@@ -116,16 +116,16 @@
           <mxGeometry x="5530" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-39" value="退款申请管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="5600" y="540" width="55" height="312" as="geometry" />
+          <mxGeometry x="5600" y="550" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-40" value="入住登记管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="5690" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="5670" y="550" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-41" value="退房信息管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="6453" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="5740" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-42" value="房间维护管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="6661" y="548" width="55" height="312" as="geometry" />
+          <mxGeometry x="5810" y="548" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-43" value="服务信息管理" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="6869" y="548" width="55" height="312" as="geometry" />

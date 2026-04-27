@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sjm-i4mJQh-_WMmqBtxx">
-    <mxGraphModel dx="4097" dy="3611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5736" dy="4576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
           <mxGeometry x="2743" y="762" width="122" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1489" value="用户账号" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2620.5" y="1106" width="107" height="94" as="geometry" />
+          <mxGeometry x="2612" y="1134.5" width="107" height="94" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1490" value="用户密码" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="2778.5" y="1003" width="124" height="91" as="geometry" />
@@ -1942,9 +1942,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iI2RWeMDbYF0NdwieU4T-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1649" target="PPCym6xtzCGgwvmWuu8L-1649">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iI2RWeMDbYF0NdwieU4T-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1489" target="PPCym6xtzCGgwvmWuu8L-1489">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

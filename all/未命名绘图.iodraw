@@ -1841,13 +1841,6 @@
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1574" value="商户名称" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2943" y="-818.25" width="126" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="iI2RWeMDbYF0NdwieU4T-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="PPCym6xtzCGgwvmWuu8L-1474" target="PPCym6xtzCGgwvmWuu8L-1570">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="2503" y="290" as="sourcePoint" />
-            <mxPoint x="8300" y="479" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1570" value="购买数量" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="3511.5" y="-909" width="138" height="106" as="geometry" />
         </mxCell>

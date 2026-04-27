@@ -401,10 +401,10 @@
           <mxGeometry x="3428" y="138" width="118" height="75" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1595" value="帖子标题" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3380.5" y="-5" width="150" height="74" as="geometry" />
+          <mxGeometry x="3350" y="-47.24" width="145" height="96.24" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1596" value="帖子内容" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3280.5" y="-68" width="128" height="67" as="geometry" />
+          <mxGeometry x="3297" y="-142.24" width="128" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1597" value="父节点ID" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2553.5" y="-43" width="129" height="95" as="geometry" />
@@ -425,7 +425,7 @@
           <mxGeometry x="2529" y="269.5" width="125" height="85" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1603" value="置顶时间" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3316.5" y="72" width="125" height="83" as="geometry" />
+          <mxGeometry x="3370.5" y="60.5" width="125" height="83" as="geometry" />
         </mxCell>
         <mxCell id="PPCym6xtzCGgwvmWuu8L-1604" value="分类名称" style="ellipse;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=28;fontColor=default;fontStyle=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="3151.5" y="-166.5" width="129" height="85" as="geometry" />

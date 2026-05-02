@@ -4,133 +4,133 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y33v_aBjuY59mo9h5X9G-2" value="民宿点评管理系统" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-2" value="民宿点评管理系统" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2839.75" y="300" width="269.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-3" value="管理员" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-3" value="管理员" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1900" y="420" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-4" value="用户" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-4" value="用户" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2928.5" y="449" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-5" value="民宿店家" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-5" value="民宿店家" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3850" y="449" width="130" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-6" value="登录" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-6" value="登录" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1460" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-7" value="个人中心" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-7" value="个人中心" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1534" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-8" value="用户管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-8" value="用户管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1610" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-9" value="民宿店家管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-9" value="民宿店家管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1680" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-10" value="民宿信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-10" value="民宿信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1756" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-11" value="预订订单管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-11" value="预订订单管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1830" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-12" value="退款申请管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-12" value="退款申请管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1907" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-13" value="入住登记管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-13" value="入住登记管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1981" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-14" value="退房信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-14" value="退房信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2050" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-15" value="房间维护管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-15" value="房间维护管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2120" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-16" value="服务类型管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-16" value="服务类型管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2200" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-17" value="服务信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-17" value="服务信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2266" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-18" value="服务预约管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-18" value="服务预约管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2340" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-19" value="系统管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-19" value="系统管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2410" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-20" value="注册" style="strokeWidth=2;fontSize=32;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-20" value="注册" style="strokeWidth=2;fontSize=32;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2490" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-21" value="登录" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-21" value="登录" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2567.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-22" value="民宿信息" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-22" value="民宿信息" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2648.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-23" value="服务信息" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-23" value="服务信息" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2718.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-24" value="个人中心" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-24" value="个人中心" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2788.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-25" value="修改密码" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-25" value="修改密码" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2858.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-26" value="预订订单" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-26" value="预订订单" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2928.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-27" value="退款申请" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-27" value="退款申请" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2998.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-28" value="入住登记" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-28" value="入住登记" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3068.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-29" value="退房信息" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-29" value="退房信息" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3138.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-30" value="服务预约" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-30" value="服务预约" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3208.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-31" value="我的收藏" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-31" value="我的收藏" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3278.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-32" value="打卡分享" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-32" value="打卡分享" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3352.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-33" value="论坛交流" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-33" value="论坛交流" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3428.5" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-34" value="注册" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-34" value="注册" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3540" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-35" value="登录" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-35" value="登录" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3622" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-36" value="个人中心" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-36" value="个人中心" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3696" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-37" value="民宿信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-37" value="民宿信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3770" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-38" value="预订订单管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-38" value="预订订单管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3850" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-39" value="退款申请管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-39" value="退款申请管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3920" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-40" value="入住登记管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-40" value="入住登记管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3990" y="548" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-41" value="退房信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-41" value="退房信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="4060" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-42" value="房间维护管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-42" value="房间维护管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="4130" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-43" value="服务信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-43" value="服务信息管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="4200" y="546" width="55" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="y33v_aBjuY59mo9h5X9G-44" value="服务预约管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="y33v_aBjuY59mo9h5X9G-44" value="服务预约管理" style="strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=default;fillColor=default;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="4270" y="546" width="55" height="312" as="geometry" />
         </mxCell>
         <mxCell id="y33v_aBjuY59mo9h5X9G-45" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.54;entryX=0.5;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;" parent="1" source="y33v_aBjuY59mo9h5X9G-2" target="y33v_aBjuY59mo9h5X9G-3" edge="1">
